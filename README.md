@@ -19,7 +19,7 @@
 
 | Desktop | Загрузка |
 |--------|----------|
-| Windows | [Download .exe](https://github.com/dollar1205/password_manager/releases/tag/v1.0.0) |
+| Windows | [Download .exe](https://github.com/dollar1205/password_manager/releases/download/v1.0.0/PasswordManager.exe) |
 
 ---
 
@@ -135,7 +135,7 @@ MIT License
 
 | Desktop | Загрузка |
 |--------|----------|
-| Windows | [Download .exe](https://github.com/dollar1205/password_manager/releases/tag/v1.0.0) |
+| Windows | [Download .exe](https://github.com/dollar1205/password_manager/releases/download/v1.0.0/PasswordManager.exe) |
 
 ---
 
