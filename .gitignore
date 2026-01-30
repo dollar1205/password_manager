@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.toc
+*.pkg
+*.pyz
+xref-*.html
+warn-*.txt
+
+# Executables
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+
