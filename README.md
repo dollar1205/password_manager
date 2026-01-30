@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # RU
 
 # 🔐 Password Manager — Desktop Utility (Windows)
