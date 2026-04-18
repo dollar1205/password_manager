@@ -1,0 +1,19 @@
+from __future__ import annotations
+
+from pathlib import Path
+
+APP_NAME = "Zero-Knowledge Password Manager"
+APP_VERSION = "1.0.0"
+PROFILE_SCHEMA_VERSION = 1
+VAULT_SCHEMA_VERSION = 1
+
+APP_DIR = Path.home() / ".zk_password_manager"
+PROFILE_PATH = APP_DIR / "profile.json"
+
+MIN_MASTER_PASSWORD_LENGTH = 14
+DEFAULT_AUTO_LOCK_SECONDS = 180
+CLIPBOARD_CLEAR_SECONDS = 15
+REVEAL_PASSWORD_SECONDS = 10
+DEFAULT_GENERATED_PASSWORD_LENGTH = 20
+
+BLOCK_ON_DEBUGGER = True
