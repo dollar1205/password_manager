@@ -1,5 +1,5 @@
 # Zero-Knowledge Password Manager
-URL : https://paswordmanager.duckdns.org
+URL : https://password.dollar1205.biz
 Secure client-server password manager with a `PySide6` desktop client and `FastAPI` backend.
 
 The design follows a zero-knowledge model:
